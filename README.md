@@ -24,7 +24,7 @@ GitHub Pages for hosting this demo.
 
 ## Live demo
 
-[View the demo](https://kari-halvorsen.github.io/Habit-Builder-And-Daily-Organizer)
+[View the demo](https://kari-halvorsen.github.io/Habit-Builder-And-Daily-Organizer)](https://kari-halvorsen.github.io/my-space)
 
 ## How it works
 
